@@ -1,5 +1,5 @@
-## <h1>:nerd_face: Hello world! 👋</h1>
-## <h3>I'm Brijitha, your friendly neighborhood front-end enthusiast with a passion for crafting captivating digital experiences.🌟</h3>
+<h1>Hello world! 👋</h1>
+<h3>I'm Brijitha, your friendly neighborhood front-end enthusiast with a passion for crafting captivating digital experiences.🌟</h3>
 
 -💡 I transform ideas into interactive web applications that not only function flawlessly but also captivate and engage users. <br>
 -🚀 I'm on a mission to make the web a more beautiful and user-friendly place, one pixel at a time.<br>
