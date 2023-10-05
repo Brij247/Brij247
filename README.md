@@ -10,7 +10,7 @@ Let's code, design, and inspire together! 💻✨
 
 <br>
 
-
+[![An image of @brij247's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/brij247)](https://holopin.io/@brij247)
 
 ## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="42px"> Languages and Frameworks I code with:
 <code><img width="40px" src="https://img.icons8.com/plasticine/100/000000/nextjs" title="React"/></code>
