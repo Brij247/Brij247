@@ -1,13 +1,12 @@
-## <h1>:nerd_face: Hi,there! I am Brijitha!</h1>
+## <h1>:nerd_face: Hello world! 👋</h1>
+## <h3>I'm Brijitha, your friendly neighborhood front-end enthusiast with a passion for crafting captivating digital experiences.🌟</h3>
 
 
 ## <img src="https://media.giphy.com/media/QXPqYpSyBIMjBTtBbl/giphy.gif" width="52px"> A bit About Me
 
-
-  -Visual Programmer <br>
-  -{MERN} :nerd_face:<br>
-  -Studied Computer Science and Engineering,Anna University<br>
-  -freelancer :slightly_smiling_face:
+-💡 I transform ideas into interactive web applications that not only function flawlessly but also captivate and engage users. <br>
+-🚀 I'm on a mission to make the web a more beautiful and user-friendly place, one pixel at a time.<br>
+-:slightly_smiling_face: freelancer 
   
 
 
@@ -16,7 +15,7 @@
 
 
 ## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="42px"> Languages and Frameworks I code with:
-<code><img width="40px" src="https://img.icons8.com/plasticine/100/000000/react.png" title="React"/></code>
+<code><img width="40px" src="https://img.icons8.com/plasticine/100/000000/nextjs" title="React"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/8x/000000/nodejs.png" title="Nodejs"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/48/000000/javascript--v1.png" title="Javascript"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/2x/bootstrap.png" title="Bootstrap"/></code>
