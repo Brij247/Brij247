@@ -1,14 +1,12 @@
 ## <h1>:nerd_face: Hello world! 👋</h1>
 ## <h3>I'm Brijitha, your friendly neighborhood front-end enthusiast with a passion for crafting captivating digital experiences.🌟</h3>
 
-
-## <img src="https://media.giphy.com/media/QXPqYpSyBIMjBTtBbl/giphy.gif" width="52px"> A bit About Me
-
 -💡 I transform ideas into interactive web applications that not only function flawlessly but also captivate and engage users. <br>
 -🚀 I'm on a mission to make the web a more beautiful and user-friendly place, one pixel at a time.<br>
 -:slightly_smiling_face: freelancer 
   
-
+Collaboration in the open source community is not just a passion; it's a driving force behind everything I do. 🌐<br>
+Let's code, design, and inspire together! 💻✨
 
 <br>
 
