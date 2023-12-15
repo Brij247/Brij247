@@ -3,7 +3,6 @@
 
 -💡 I transform ideas into interactive web applications that not only function flawlessly but also captivate and engage users. <br>
 -🚀 I'm on a mission to make the web a more beautiful and user-friendly place, one pixel at a time.<br>
--:slightly_smiling_face: freelancer 
   
 Collaboration in the open source community is not just a passion; it's a driving force behind everything I do. 🌐<br>
 Let's code, design, and inspire together! 💻✨
